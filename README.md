@@ -87,3 +87,8 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+grunt-tinypng
+=============
+
+Grunt build to take all your png images and pass them through the Tiny PNG service (www.tinypng.org) using lossy compression.
